@@ -1,4 +1,4 @@
-contact me on discord if you have any qestions!  - @8pxl#8150
+contact me on discord for more info <3  - @8pxl#8150
 
 https://user-images.githubusercontent.com/56054380/180115757-677d3269-bc1a-4f2b-abfc-1291323ea8f0.mov
 
