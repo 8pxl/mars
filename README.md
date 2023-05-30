@@ -1,7 +1,7 @@
 To run: **Python 3.0+ is required.**
 
-You may also need to pip install tkinter.
-
+You also need to pip install tkinter and customtkinter.
+`pip install customtkinter`
 
 contact me on discord for more info <3  - @8pxl#8150
 
